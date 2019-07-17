@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Chess</string>
+    <string name="chessBoard">Chess Board</string>
+    <string name="brook">Black Rook</string>
+    <string name="bknight">Black Knight</string>
+    <string name="bbishop">Black Bishop</string>
+    <string name="bking">Black King</string>
+    <string name="bqueen">Black Queen</string>
+    <string name="bpawn">Black Pawn</string>
+    <string name="wking">White King</string>
+    <string name="wqueen">White Queen</string>
+    <string name="wpawn">White Pawn</string>
+    <string name="wrook">White Rook</string>
+    <string name="wknight">White Knight</string>
+    <string name="wbishop">White Bishop</string>
+    <dimen name="tileSize">47dp</dimen>
+    <dimen name="tileMargin">0.5dp</dimen>
+    <string-array name="array_name">
+        <item>Queen</item>
+        <item>Rook</item>
+        <item>Bishop</item>
+        <item>Knight</item>
+    </string-array>
+</resources>
